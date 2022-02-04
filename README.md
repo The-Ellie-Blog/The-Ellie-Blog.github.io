@@ -1,2 +1,2 @@
 # The-Ellie-Blog.github.io
-The Ellie Blog website,.
+The Ellie Blog website.
