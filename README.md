@@ -1,2 +1,3 @@
-# The-Ellie-Blog.github.io
+# The Ellie Blog
+
 The Ellie Blog website.
